@@ -40,3 +40,5 @@ See [`SECURITY.md`](SECURITY.md).
 
 All rights reserved © 2026 Karetson. You may install and use the official releases for personal,
 non-commercial purposes; the full licence text is installed with the app as `LICENSE.txt`.
+
+<img width="1099" height="747" alt="image" src="https://github.com/user-attachments/assets/44511f79-57fe-462d-9514-8556b4e24b4f" />
