@@ -15,8 +15,6 @@ This repository holds the Windows releases of the app. It contains no source cod
 **Windows SmartScreen** may show "Windows protected your PC" the first time you run the installer, because
 the installer is not yet signed with a code signing certificate. Click **More info → Run anyway** to continue.
 
-<img width="1099" height="747" alt="image" src="https://github.com/user-attachments/assets/44511f79-57fe-462d-9514-8556b4e24b4f" />
-
 Other files of a release:
 
 - `latest.json` is a technical file used by the app's automatic updates. You do not need to download it.
